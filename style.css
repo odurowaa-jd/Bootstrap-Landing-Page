@@ -1,0 +1,68 @@
+   body {
+  background-color: #f8faff ;
+  color: #1e293b;
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #ffffff !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.navbar a {
+  color: #1e293b !important;
+}
+
+/* Hero */
+.hero {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to right, #eef2ff, #f8faff);
+}
+
+/* Headings */
+.hero h1 {
+  font-size: 3rem;
+}
+
+/* Button */
+.btn-custom {
+  background: linear-gradient(135deg, #a78bfa, #38bdf8);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 25px;
+}
+
+.btn-custom:hover {
+  opacity: 0.9;
+}
+
+/* Cards */
+.card {
+  background-color: #ffffff;
+  border: none;
+  border-radius: 15px;
+  color: #1e293b;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(167, 139, 250, 0.15);
+}
+
+/* Icons */
+.icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  background-color: #eef2ff;
+  color: #64748b;
+  padding: 20px 0;
+}
