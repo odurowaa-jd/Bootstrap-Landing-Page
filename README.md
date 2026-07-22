@@ -22,4 +22,4 @@ This project was a significant challenge as it was my first time working with th
 You can view the live site here: [Bootstrap Landing Page](https://odurowaa-jd.github.io/Bootstrap-Landing-Page/)
 
 ---
-*Created by [Your Name/GitHub Username]*
+*Created by [Jessica Odurowaa Danquah]*
